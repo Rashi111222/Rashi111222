@@ -8,11 +8,11 @@
 
 ## 🌸 About Me
 
-🎓 MSc Computer Applications (Pune)
-💻 Java & Full Stack Developer (Fresher)
-🚀 Strong in Core Java, OOP & Backend Development
-🌱 Currently learning **Spring Boot & REST APIs**
-💡 Love building real-world applications
+🎓 MSc Computer Applications (Pune) <br>
+💻 Seeking Jobs for Java, Full Stack or Software Developer (Fresher) <br>
+🚀 Strong in Core Java, OOP & Backend Development <br>
+🌱 Currently learning **Spring Boot & REST APIs** <br>
+💡 Love building real-world applications <br>
 
 ---
 
