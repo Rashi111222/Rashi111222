@@ -35,14 +35,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi111222&layout=compact&theme=radical&border_radius=10"/>
-</p>
-
----
-
 ## 🚀 Projects
 
 ### 💰 Expense Tracker System
