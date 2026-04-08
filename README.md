@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rashi111222&show_icons=true&theme=radical&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi111222&theme=radical&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Rashi111222&theme=radical&border_radius=10&timezone=Asia/Kolkata"/>
 </p>
 
 ---
