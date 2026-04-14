@@ -101,34 +101,74 @@ MERN Stack Developer
 
 ---
 
-## 🚀 Projects
-
-### 💬 Multithreaded Chat Application
-
-* Real-time chat using TCP sockets
-* Multi-client handling with threading
-* Low-level networking (no frameworks)
-
-🔗 GitHub: https://github.com/Rashi111222/codtech/tree/main/Task3_ChatApp
-🌐 Live: https://nexchat-5rze.onrender.com/
+## 🚀 Featured Work
 
 ---
+
+
+### 🌟 Multithreaded Chat Application (NexChat)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Real--Time%20System-f4c2c2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multithreading-b7c9e2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Low--Level%20Networking-d6cdea?style=for-the-badge"/>
+</p>
+
+```diff id="w1u4cs"
++ Built a real-time chat system using Java TCP sockets
++ Handles multiple clients simultaneously using multithreading
++ Implemented custom client-server communication without frameworks
++ Designed for scalability at system level
+```
+
+🔗 **GitHub:**
+https://github.com/Rashi111222/codtech/tree/main/Task3_ChatApp
+
+🌐 **Live Demo:**
+https://nexchat-5rze.onrender.com/
+
+**Tech Stack:** `Java` `Sockets` `TCP/IP` `Multithreading`
+
+---
+
+## 💼 Other Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 💰 Expense Tracker
 
-* Budget & expense tracking system
-* REST API with MongoDB
-* CRUD-based backend
+```diff id="hu6gtr"
++ Budget and expense tracking system
++ Category-based management with dynamic updates
++ REST API backend with MongoDB
+```
 
----
+**Tech:**
+`Node.js` `Express` `MongoDB`
+
+</td>
+
+<td width="50%">
 
 ### 📰 News Portal
 
-* Dynamic content management
-* PHP + MySQL backend
-* Category-based filtering
+```diff id="5jkhvv"
++ Dynamic news platform with category filtering
++ Admin-side content management system
++ Structured backend using PHP & MySQL
+```
+
+**Tech:**
+`PHP` `MySQL` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## 📊 GitHub Stats
 
