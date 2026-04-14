@@ -1,106 +1,153 @@
-# Rashi Karande
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F5C2E7&size=24&center=true&vCenter=true&width=600&lines=Java+%7C+Full+Stack+Developer;Backend+Focused+Developer;Spring+Boot+Learner;Building+Real+World+Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffafcc,100:a2d2ff&height=230&section=header&text=Rashi%20Karande&fontSize=45&fontColor=2b2d42&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:cdb4db&height=120&section=header"/>
+  <b style="color:#2b2d42; font-size:16px;">
+    Backend Developer | Java | MERN Stack | API Systems
+  </b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=2500&pause=800&color=FF8FAB&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+Developer;MERN+Stack+Developer;API+Builder" />
 </p>
 
 ---
 
-## About Me
+<p align="center">
+  <a href="mailto:rashikarande77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffc8dd?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/rashikarande">
+    <img src="https://img.shields.io/badge/LinkedIn-bde0fe?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Rashi111222">
+    <img src="https://img.shields.io/badge/GitHub-cdb4db?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/rashikarande111">
+  <img src="https://img.shields.io/badge/HackerRank-ffc8dd?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+</p>
 
-```id="abt01"
-MSc Computer Applications Student  
-Backend Developer (Java • Node.js)  
-Currently Learning Spring Boot & REST APIs  
-Actively Seeking Fresher Opportunities  
+---
+
+## 🔍 Profile Summary
+
+<table>
+<tr>
+<td>
+
+🔥 Backend-focused developer with hands-on project experience
+
+⚡ Built real-time chat system using **Java sockets & multithreading**
+
+🚀 Developed **REST APIs & CRUD systems** using Node.js & MongoDB
+
+🧠 Strong in **Java, C, Python**
+
+🗄️ Experience with **database design & API integration**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Target Roles
+
+```yaml
+Backend Engineer
+Java Developer
+Software Developer
+MERN Stack Developer
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-ffd6a5?style=for-the-badge\&logo=html5\&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-a2d2ff?style=for-the-badge\&logo=css3\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff1a8?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+### ⚙️ Backend & Languages
+
+![Java](https://img.shields.io/badge/Java-ffadad?style=for-the-badge\&logo=java\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-caffbf?style=for-the-badge\&logo=node.js\&logoColor=black)
+![Express](https://img.shields.io/badge/Express-ffd6ff?style=for-the-badge\&logo=express\&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring-a0c4ff?style=for-the-badge\&logo=springboot\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-bde0fe?style=for-the-badge\&logo=python\&logoColor=black)
+![C](https://img.shields.io/badge/C-f1faee?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-cdb4db?style=for-the-badge\&logo=cplusplus\&logoColor=black)
+
+---
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-caffbf?style=for-the-badge\&logo=mongodb\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-a2d2ff?style=for-the-badge\&logo=mysql\&logoColor=black)
+
+---
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-ffadad?style=for-the-badge\&logo=git\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-bde0fe?style=for-the-badge\&logo=visualstudiocode\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-fff1a8?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+### 💬 Multithreaded Chat Application
+
+* Real-time chat using TCP sockets
+* Multi-client handling with threading
+* Low-level networking (no frameworks)
+
+🔗 GitHub: https://github.com/Rashi111222/codtech/tree/main/Task3_ChatApp
+🌐 Live: https://nexchat-5rze.onrender.com/
+
+---
+
+### 💰 Expense Tracker
+
+* Budget & expense tracking system
+* REST API with MongoDB
+* CRUD-based backend
+
+---
+
+### 📰 News Portal
+
+* Dynamic content management
+* PHP + MySQL backend
+* Category-based filtering
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,mysql,html,css,python,c,cpp,git,vscode&theme=light"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashi111222&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Rashi111222&theme=rose_pine&hide_border=true"/>
 </p>
 
 ---
 
-## Projects
-
-### Multithreaded Chat Application
-
-> Real-time chat system using raw TCP sockets
-
-* Java Sockets (TCP) + Multithreading
-* Handles multiple clients concurrently
-* Custom message handling & client-server architecture
-* Built without frameworks (low-level networking understanding)
-
-🔗 https://github.com/Rashi111222/codtech/tree/main/Task3_ChatApp
-🌐 https://nexchat-5rze.onrender.com/
-
----
-
-### Expense Tracker System
-
-> Backend-focused budget tracking application
-
-* Node.js • Express • MongoDB
-* CRUD operations + category budgets
-
----
-
-### News Portal Application
-
-> Dynamic content-based web app
-
-* PHP • MySQL • HTML • CSS
-* Category filtering
----
-
-## Achievements & Certifications
-
-* 🥈 2nd Rank – Poster Competition (German, SPPU)
-* 🐍 Python Fundamentals – Infosys Springboard
-* 🌐 HTML Training – IIT Bombay
-* ⚙️ C Programming – Techno Comp
-* 📘 German A2 – SPPU
-
----
-
-## Connect
+## 🐍 Contribution Graph
 
 <p align="center">
-  <a href="mailto:rashikarande77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-f8edeb?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://linkedin.com/in/rashikarande">
-    <img src="https://img.shields.io/badge/LinkedIn-e0bbf9?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/rashikarande111">
-    <img src="https://img.shields.io/badge/HackerRank-daf5e9?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashi111222&show_icons=true&theme=catppuccin_latte&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=Rashi111222&theme=catppuccin_latte&hide_border=true"/>
+  <img src="https://github.com/Rashi111222/Rashi111222/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cdb4db,100:fad0c4&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>consistency > motivation ✨</i>
+  <b style="color:#2b2d42;">Build • Improve • Repeat</b>
 </p>
