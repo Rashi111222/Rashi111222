@@ -173,9 +173,8 @@ https://nexchat-5rze.onrender.com/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashi111222&show_icons=true&theme=radical&cache_seconds=1800" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Rashi111222&theme=rose_pine&hide_border=true"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Rashi111222&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
