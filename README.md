@@ -106,6 +106,35 @@ MERN Stack Developer
 ---
 
 
+## 🚀 Featured Work
+
+---
+
+### ⚖️ Nyaya Setu AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Powered-ffc8dd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OCR%20Pipeline-bde0fe?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LegalTech-cdb4db?style=for-the-badge"/>
+</p>
+
+```diff
++ AI-powered legal document analysis platform
++ Processes scanned & digital court judgment PDFs
++ Built OCR + LLM workflow using Groq API and Django
++ Reduced legal judgment analysis time to under 5 minutes
+```
+
+🔗 **GitHub:**
+https://github.com/Rashi111222/Nyayasetu
+
+🌐 **Live Demo:**
+https://nyayasetu-5z29.onrender.com
+
+**Tech Stack:** `Django` `Python` `Groq API` `OCR` `SQLite`
+
+---
+
 ### 🌟 Multithreaded Chat Application (NexChat)
 
 <p align="center">
@@ -114,7 +143,7 @@ MERN Stack Developer
   <img src="https://img.shields.io/badge/Low--Level%20Networking-d6cdea?style=for-the-badge"/>
 </p>
 
-```diff id="w1u4cs"
+```diff
 + Built a real-time chat system using Java TCP sockets
 + Handles multiple clients simultaneously using multithreading
 + Implemented custom client-server communication without frameworks
