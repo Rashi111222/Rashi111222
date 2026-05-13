@@ -101,10 +101,6 @@ MERN Stack Developer
 
 ---
 
-## 🚀 Featured Work
-
----
-
 
 ## 🚀 Featured Work
 
