@@ -199,7 +199,7 @@ https://nexchat-5rze.onrender.com/
 
 <p align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Rashi111222&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rashi111222&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
